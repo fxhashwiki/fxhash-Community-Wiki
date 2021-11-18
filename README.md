@@ -1,1 +1,1 @@
-# fxhash-Community-Wiki
+# fxhash community wiki
